@@ -1,0 +1,8 @@
+! ----- names for bodies -----
+$ Group_1 = 1
+$ block = 2
+! ----- names for boundaries -----
+$ bottom = 1
+$ other = 2
+$ master = 3
+$ slave = 4
